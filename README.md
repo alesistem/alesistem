@@ -8,7 +8,7 @@
 * **Git** — Sistema de controle de versão.
 
 ## 🎧 Sobre mim
-Sou estudante do curso técnico em **Desenvolvimento de Sistemas** integrado ao Ensino Médio. Apaixonado por tecnologia, busco constantemente compreender a engenharia por trás do código e o funcionamento dos bastidores de aplicações reais.
+Sou estudante do curso técnico em **Desenvolvimento de Sistemas** integrado ao Ensino Médio. Busco e quero constantemente compreender a engenharia por trás do código e o funcionamento dos bastidores de aplicações reais. 😎
 
 
 ## ✒️ Autor
