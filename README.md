@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Alexandre Sversuti</h1>
 
-<!--
-**alesistem/alesistem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tecnologias
 
-Here are some ideas to get you started:
+* **HTML5** — Estruturação do conteúdo e acessibilidade.
+* **CSS3** — Estilização, layout responsivo e transições.
+* **VS Code** — Ambiente de desenvolvimento principal.
+* **Git** — Sistema de controle de versão.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎧 Sobre mim
+Sou estudante do curso técnico em **Desenvolvimento de Sistemas** integrado ao Ensino Médio. Apaixonado por tecnologia, busco constantemente compreender a engenharia por trás do código e o funcionamento dos bastidores de aplicações reais.
+
+
+## ✒️ Autor
+
+Desenvolvido com ☕ por **Alexandre Sversuti**.
